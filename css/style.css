@@ -3,7 +3,7 @@
 h1 {
   font-family: "Poppins", sans-serif;
 }
-/* header background color */
+/* background modified color  */
 .bg-info {
   background-color: #264653;
 }
@@ -11,7 +11,7 @@ h1 {
 .purchase-btn-primary {
   background-color: #e76f51;
 }
-/* grayscale style */
+/* black and white */
 .grayscale {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
