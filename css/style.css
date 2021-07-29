@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-body {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+h1 {
   font-family: "Poppins", sans-serif;
 }
 /* header background color */
@@ -20,4 +23,12 @@ body {
 /* star design */
 .fa-star.filled {
   color: #e77c40;
+}
+.text-white{
+  font-weight: 300;
+  color: #E0E0E0;;
+
+}
+.top{
+  color: #FFFFFF; 
 }
