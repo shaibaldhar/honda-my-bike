@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+/* header background color */
+.bg-info {
+  background-color: #264653;
+}
+/* purchase button color */
+.purchase-btn-primary {
+  background-color: #e76f51;
+}
+/* grayscale style */
+.grayscale {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+}
+/* star design */
+.fa-star.filled {
+  color: #e77c40;
+}
